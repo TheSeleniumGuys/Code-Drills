@@ -1,4 +1,4 @@
-//See the blog post at: http://theseleniumguys.com/2016/12/05/code-drill-1-selenium-c-hello-world/
+//See the blog post at: http://theseleniumguys.com/2016/11/07/code-drill-1-selenium-c-hello-world/
 
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
