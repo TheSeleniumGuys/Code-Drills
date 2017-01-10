@@ -3,7 +3,7 @@ Here's all the code from our Weekly Code Drills.
 
 **Code Drill 1 - Get simple code in place to run a Hello World on Google**
 
-- Drill:http://theseleniumguys.com/weekly-code-drills/code-drill-1/
+- Drill:   http://theseleniumguys.com/weekly-code-drills/code-drill-1/
 - Article: http://theseleniumguys.com/2016/11/07/code-drill-1-selenium-c-hello-world/
 
 **Code Drill 2 - As above, but opening with Chrome, Firefox, IE and Edge**
